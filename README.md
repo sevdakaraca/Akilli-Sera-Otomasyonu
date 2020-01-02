@@ -1,0 +1,2 @@
+# Akilli-Sera-Otomasyonu
+Bu projede UBIDOTS bulut bilişim alt yapısını kullanarak sensörlerden gelen seranın sıcaklık, nem ve toprağın nem değerlerini bulut üzerinde bir database’e kaydedip bu değerleri tablo veya grafiksel bir şekilde görüp belirtilen değerler aşıldığında kullanıcıya mobil uygulama olan BLYNK platformu üzerinden bilgilendirme mesajlarının gönderilip sistemde belirtilen işlemlerin otomatik olarak gerçekleştirilmesi sağlanmıştır.
